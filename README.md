@@ -29,18 +29,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul27303&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul27303&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/rahul-patel6655/  
-- 📧 Email: rahul27303@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahul-patel6655/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rahul_Patel-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:rahul27303@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rahul27303@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-⭐️ From Rahul Patel | Keep Building 🚀
+<p align="center">⭐ From Rahul Patel | Keep Building 🚀</p>
