@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rahul Patel</h1>
-<h3 align="center">💻 Full Stack Developer | 🎓 Computer Engineering Student</h3>
 
 <p align="center">
-  🚀 Passionate about building responsive and user-friendly web applications <br/>
-  🌱 Currently mastering JavaScript & React <br/>
-  💡 Focused on clean UI, functionality & real-world projects
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Computer+Engineering+Student;JavaScript+%7C+React+Learner;Building+Real+World+Projects+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahul6655-tech&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
@@ -13,28 +14,33 @@
 
 - 🎓 Computer Engineering Student from Gujarat, India 🇮🇳  
 - 💻 Frontend-focused Full Stack Developer  
-- 📚 Strengthening JavaScript fundamentals & React  
+- 🌱 Currently improving JavaScript & React  
 - 🎯 Goal: Become a Professional Full Stack Engineer  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,git,github" />
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul6655-tech&theme=tokyo-night" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahul6655-tech&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rahul-patel6655/" target="_blank">
@@ -47,4 +53,4 @@
 
 ---
 
-<p align="center">⭐ From Rahul Patel | Keep Building 🚀</p>
+<p align="center">⭐ Keep Learning | Keep Building 🚀</p>
