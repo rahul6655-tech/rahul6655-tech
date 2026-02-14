@@ -13,7 +13,6 @@
 
 - 🎓 Computer Engineering Student from Gujarat, India 🇮🇳  
 - 💻 Frontend-focused Full Stack Developer  
-- 🛒 Creator of "Digital Shopping Mall" E-commerce Project  
 - 📚 Strengthening JavaScript fundamentals & React  
 - 🎯 Goal: Become a Professional Full Stack Engineer  
 
@@ -24,16 +23,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,git,github" />
 </p>
-
----
-
-## 📌 Featured Project
-
-### 🛒 Digital Shopping Mall  
-E-commerce web application with product listing, cart system, quantity management, and invoice generation.
-
-🔗 Live Demo: (Add your live link here)  
-🔗 Repository: (Add your repository link here)
 
 ---
 
