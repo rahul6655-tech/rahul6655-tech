@@ -1,27 +1,27 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h1 align="center">Hi 👋, I'm Rahul Patel</h1>
 <h3 align="center">💻 Full Stack Developer | 🎓 Computer Engineering Student</h3>
 
 <p align="center">
-  🚀 Passionate about building responsive and user-friendly web applications  
-  🌱 Currently mastering JavaScript & React  
-  💡 Always learning and improving
+  🚀 Passionate about building responsive and user-friendly web applications <br/>
+  🌱 Currently mastering JavaScript & React <br/>
+  💡 Focused on clean UI, functionality & real-world projects
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Engineering Student from Gujarat, India  
+- 🎓 Computer Engineering Student from Gujarat, India 🇮🇳  
 - 💻 Frontend-focused Full Stack Developer  
-- 🛒 Built an E-commerce Project "Digital Shopping Mall"  
-- 📚 Learning React & improving JavaScript fundamentals  
+- 🛒 Creator of "Digital Shopping Mall" E-commerce Project  
+- 📚 Strengthening JavaScript fundamentals & React  
 - 🎯 Goal: Become a Professional Full Stack Engineer  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,git,github" />
 </p>
 
@@ -30,10 +30,10 @@
 ## 📌 Featured Project
 
 ### 🛒 Digital Shopping Mall  
-E-commerce website with product listing, cart system, quantity management, and invoice feature.
+E-commerce web application with product listing, cart system, quantity management, and invoice generation.
 
-🔗 Live Demo: (Add your link)  
-🔗 Repository: (Add your repo link)
+🔗 Live Demo: (Add your live link here)  
+🔗 Repository: (Add your repository link here)
 
 ---
 
@@ -49,9 +49,9 @@ E-commerce website with product listing, cart system, quantity management, and i
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your LinkedIn link)
-- 📧 Email: (Add your email)
+- 💼 LinkedIn: https://www.linkedin.com/in/rahul-patel6655/  
+- 📧 Email: rahul27303@gmail.com  
 
 ---
 
-⭐️ From Rahul | Keep Learning 🚀
+⭐️ From Rahul Patel | Keep Building 🚀
